@@ -1,0 +1,6 @@
+---
+- name: Hello World!
+  hosts: all
+  tasks:
+    - name: Touch yourself
+      command: "touch /tmp/hello-ansible"

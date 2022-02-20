@@ -1,0 +1,6 @@
+# local vagrant config
+.vagrant/
+
+# temp files
+*.sw?
+Session.vim
