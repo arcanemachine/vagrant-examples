@@ -1,4 +1,6 @@
-# environments: vagrant
+# Vagrant Examples
+
+A collection of plug-and-play scenarios for Vagrant.
 
 ## Setup
 
