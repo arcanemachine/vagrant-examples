@@ -4,7 +4,7 @@ A collection of plug-and-play scenarios for Vagrant.
 
 ## Setup
 
-Setup instructions for Debian (using `libvirt` instead of `virtualbox`) can be found [here](https://opensource.com/article/21/10/vagrant-libvirt)
+Setup instructions for Debian (using `libvirt` instead of `virtualbox`) can be found [here](https://opensource.com/article/21/10/vagrant-libvirt).
 
 - Install `vagrant`, `libvirt`, and other dependencies:
 
