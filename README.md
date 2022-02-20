@@ -25,10 +25,12 @@ zlib1g-dev ruby-dev libguestfs-tools
 - Install the `vagrant-libvirt` plugin:
   - `vagrant plugin install vagrant-libvirt`
 
-- Start a vagrant environment:
+- Start a Vagrant environment:
   - `vagrant init debian/bullseye64`
   - `vagrant up --provider=libvirt`
   - `vagrant ssh`
+
+- Stop the Vagrent VM when you are done: `vagrant halt`
 
 - When you are finished, destroy the Vagrant environment:
   - `vagrant destroy`
