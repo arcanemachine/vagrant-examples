@@ -1,6 +1,9 @@
-# local vagrant config
+# Dotenv files
+.env
+
+# Local Vagrant config
 .vagrant/
 
-# temp files
+# Temp files
 *.sw?
 Session.vim
